@@ -101,7 +101,7 @@ setquota -g devs 100M 500M 0 0 /dev/vdb1
 # type :
 sudo -i
 vi challenge3.sh
-# copy the script challenge1.sh into centos server of your lab and type escape +:wq  to save
+# copy the script challenge3.sh into centos server of your lab and type escape +:wq  to save
 
 # Add exection permission:
 chmod +x challenge3.sh
