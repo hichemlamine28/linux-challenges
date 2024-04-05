@@ -61,14 +61,14 @@ systemctl start nginx
 
 # type :
 sudo -i
-vi challenge1.sh
+vi challenge2.sh
 # copy the script challenge1.sh into centos server of your lab and type escape +:wq  to save
 
 # Add exection permission:
-chmod +x challenge1.sh
+chmod +x challenge2.sh
 
 # Run the script:
-./challenge1.sh
+./challenge2.sh
 
 
 
