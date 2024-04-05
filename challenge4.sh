@@ -2,6 +2,7 @@
 
 mkdir -p /opt/appdata/hidden
 mkdir -p /opt/appdata/files
+
 # Hidden files
 find /home/bob/preserved -type f -name ".*" -exec cp "{}" /opt/appdata/hidden/ \;
 # non-hidden files
