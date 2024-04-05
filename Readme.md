@@ -1,10 +1,10 @@
-Solutions for this course on kodekloud:
-https://kodekloud.com/courses/linux-challenges/
+Solutions for this course on kodekloud: https://kodekloud.com/courses/linux-challenges/
 
 
-the course is coposed by 5 challenges
+the course is composed by 5 challenges
 
-You can copu paste commands one by one or use the script as is it by creating new script, copy content and give script execution permission using chmod +x
+You can copy paste commands one by one or use the script as is it by creating new script, 
+copy content and give script execution permission using chmod +x
 
 
 
